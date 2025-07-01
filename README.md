@@ -1,4 +1,4 @@
-# 💊 Drug Prediction using Decision Tree & Random Forest
+#  Drug Prediction using Decision Tree & Random Forest
 
 This project focuses on predicting the correct **drug** to prescribe to patients based on medical features using two machine learning models:
 - **Decision Tree Classifier**
@@ -6,7 +6,7 @@ This project focuses on predicting the correct **drug** to prescribe to patients
 
 We perform data cleaning, normalization, training, evaluation, and visualization to compare both models.
 
-## ✅ Tasks Completed
+##  Tasks Completed
 
 ### 1. **Data Cleaning & Preparation**
 - Loaded the dataset.
@@ -25,9 +25,9 @@ We perform data cleaning, normalization, training, evaluation, and visualization
 
 ### 4. **Model Evaluation**
 - Compared both models using:
-  - ✅ **Accuracy**
-  - ✅ **Confusion Matrix**
-  - ✅ **Classification Report** (Precision, Recall, F1-Score)
+  -  **Accuracy**
+  -  **Confusion Matrix**
+  -  **Classification Report** (Precision, Recall, F1-Score)
 
 ### 5. **Visualization**
 - Plotted the **Decision Tree** using:
@@ -36,7 +36,7 @@ We perform data cleaning, normalization, training, evaluation, and visualization
 
 ---
 
-## 📊 Model Comparison
+##  Model Comparison
 we get same result from both the models
 
 
